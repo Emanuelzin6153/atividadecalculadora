@@ -1,1 +1,1 @@
-Projeto de calculadora simples construido por html
+Desenvolvimento de uma calculadora web interativa com foco no aprendizado de lógica de programação, manipulação do DOM e estruturação de código limpo. Projeto integrado ao repositório público do GitHub para demonstração de boas práticas iniciais.
